@@ -1,0 +1,4 @@
+C:\Users\guim9\Desktop\-\Work\MathLibrary\obj\Debug\net8.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guim9\Desktop\-\Work\MathLibrary\obj\Debug\net8.0\MathLibrary.AssemblyInfoInputs.cache
+C:\Users\guim9\Desktop\-\Work\MathLibrary\obj\Debug\net8.0\MathLibrary.AssemblyInfo.cs
+C:\Users\guim9\Desktop\-\Work\MathLibrary\obj\Debug\net8.0\MathLibrary.csproj.CoreCompileInputs.cache
